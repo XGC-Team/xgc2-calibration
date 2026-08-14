@@ -1,0 +1,8 @@
+[submodule "camera-calibration"]
+	path = camera-calibration
+	url = git@github.com:XGC-Team/xgc2-camera-calibration.git
+	branch = main
+[submodule "lidar-imu-calibration"]
+	path = lidar-imu-calibration
+	url = git@github.com:XGC-Team/xgc2-lidar-imu-calibration.git
+	branch = main
