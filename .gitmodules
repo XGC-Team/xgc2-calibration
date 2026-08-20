@@ -6,3 +6,7 @@
 	path = lidar-imu-calibration
 	url = git@github.com:XGC-Team/xgc2-lidar-imu-calibration.git
 	branch = main
+[submodule "vrpn-imu-cmd-calibration"]
+	path = vrpn-imu-cmd-calibration
+	url = git@github.com:XGC-Team/xgc2-vrpn-imu-cmd-calibration.git
+	branch = main
