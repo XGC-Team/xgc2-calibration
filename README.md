@@ -6,8 +6,6 @@ own repository; this tree only pins the checkouts used by the product catalog.
 | Path | Repository | Branch |
 | --- | --- | --- |
 | `camera-calibration` | [xgc2-camera-calibration](https://github.com/XGC-Team/xgc2-camera-calibration) | `main` |
-| `lidar-imu-calibration` | [xgc2-lidar-imu-calibration](https://github.com/XGC-Team/xgc2-lidar-imu-calibration) | `main` |
-| `vrpn-imu-cmd-calibration` | [xgc2-vrpn-imu-cmd-calibration](https://github.com/XGC-Team/xgc2-vrpn-imu-cmd-calibration) | `main` |
 
 Clone recursively:
 
