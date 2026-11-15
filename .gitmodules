@@ -2,3 +2,7 @@
 	path = camera-calibration
 	url = git@github.com:XGC-Team/xgc2-camera-calibration.git
 	branch = main
+[submodule "mocap-calibration"]
+	path = mocap-calibration
+	url = git@github.com:XGC-Team/xgc2-mocap-calibration.git
+	branch = master
